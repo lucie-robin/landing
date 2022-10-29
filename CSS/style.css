@@ -2,12 +2,12 @@
 @import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
 
 /* Importing component files */
-@import url("landing/CSS/components/avatar.css");
-@import url("landing/CSS/components/container.css");
-@import url("landing/CSS/components/button.css");
-@import url("landing/CSS/components/banner.css");
-@import url("landing/CSS/components/card.css");
-@import url("landing/CSS/components/form.css");
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/form.css");
 
 
 
